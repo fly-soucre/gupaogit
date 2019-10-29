@@ -2,10 +2,9 @@ git add 0307
 git commit -m "result"
 2333flf
 小张写了一个分支
-<<<<<<< HEAD
 
 商品管理系统
-=======
+
 购物车管理模块
 
->>>>>>> dev_li
+
